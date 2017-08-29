@@ -1,3 +1,5 @@
+# je fouine dans ton code
+
 nYear=30; 
 biomass <- rep(NA,nYear); capt <- rep(NA,nYear)
 K=300; 
